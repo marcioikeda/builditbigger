@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-27.0.2_18a6a5f16e9721410db452ca3873ec38170986dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\marcio.ikeda.LGE\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.0.2\b9ef4342c934a1a8b107506273dc8061662a322\support-annotations-27.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\pre-dexed\debug\support-annotations-27.0.2_7e4138707693214523376a5c2a81665d6309b0bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-27.0.2_867df6687144406c3dc28a3322b81cb15cb1b058.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-27.0.2_1709e5f046881f692509dec943b99f60993d72f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\pre-dexed\debug\android.arch.lifecycle-runtime-1.0.3_0ef208c75a3905df35daac1a397bfd96318c3bb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9296d6f092fcdba4fafb6ac26546a39babdab46a">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-27.0.2_eb611be5443ff88bf687bd295e1cd74e2d332197.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\exploded-aar\com.android.support\support-compat\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-27.0.2_2ecb9ab0e16fbc4a2affe9025f82b540f823089d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Udacity\Gradle\jokelib\build\libs\jokelib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="76e9703655041f6c6a5442f406133a0993cff49b">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\pre-dexed\debug\jokelib_a9ccf4a9f73f020a3870660584a50d82d156849f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-27.0.2_e0ed9e9f45f3cb508debb4fd7a9e7a607133a50a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\exploded-aar\com.android.support\support-v4\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-27.0.2_3c64dfaf5147068f897238041563d1d1fefc9083.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\exploded-aar\com.android.support\support-fragment\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-27.0.2_a0fa5bfee728e2cc03ef849803519ac320ab7882.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\exploded-aar\Gradle\androidlib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6475bf69a306b62100d86fbcfefea390723fd39c">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\pre-dexed\debug\Gradle-androidlib-unspecified_0c0198e1e81114df8d8b05c4940a998a211e84d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\11.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="24cb9bae5fbe94df0f55d87452a291b69a2f22bf">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-11.8.0_2e67a4dd6c869f1ab11dc78cdacd3121f1744b19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_534535090d3f7a02fbf607041dc0f95b77c7bbef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\marcio.ikeda.LGE\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.3\7d7f60c4783872861222166f6164215f8951c7b1\common-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\pre-dexed\debug\common-1.0.3_0c135f8f3324a7f8d45bc55f805d84d3876f2223.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\11.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="aeca0a0ab86831ec59a54723205ce9341ac22d1b">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-11.8.0_895e20a0416d2bb707ed3317d97de4a68cfb5655.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_3c9f5880fec0a880f40ecbbebb3a60ccb1f35afa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\11.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a7760a45a6c9f425aaa43ef391a8cf28a8bcb4a1">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-11.8.0_212ac6dc7530b3d5b8a1a96a95433dbcc296e26b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-11.8.0_5c608ad0780e4807e19d1394ad801dfeb96c725d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-27.0.2_60e0a9b1e5163ed5621cf4e368a29b1ad15b237e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\marcio.ikeda.LGE\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\pre-dexed\debug\common-1.0.0_350fec897ecdbb3c45e12cb493b817aacdaba9df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-27.0.2_e68c2840965e3bc52010874507570fd4a8b22d5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\exploded-aar\com.android.support\design\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="031cc16b7b6e77b3c050134ecab9fa5c2640a069">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\pre-dexed\debug\com.android.support-design-27.0.2_4cc8f6f3464a1ac08181a304d7ad38e1db5b8043.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\exploded-aar\com.android.support\transition\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a5fa2e3704f51b30b7b47e12a3a2909728799583">
+        <dex dex="D:\AndroidStudioProjects\Udacity\Gradle\app\build\intermediates\pre-dexed\debug\com.android.support-transition-27.0.2_616564e6fe68f89f3f01427149a44226740d72fd.jar" />
+    </item>
+
+</items>
