@@ -8,11 +8,18 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
+import com.google.api.client.extensions.android.http.AndroidHttp;
+import com.google.api.client.extensions.android.json.AndroidJsonFactory;
+import com.udacity.gradle.builditbigger.backend.myApi.MyApi;
+
+import java.io.IOException;
+
 import br.com.marcioikeda.androidlib.JokeActivity;
-import br.com.marcioikeda.jokelib.Joker;
 
 
 public class MainActivity extends AppCompatActivity {
+
+    private static MyApi myApiService = null;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -44,15 +51,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void tellJoke(View view) {
-        String joke = Joker.getJoke();
-        Toast.makeText(this, joke , Toast.LENGTH_SHORT).show();
-        launchLibraryActivity(joke);
-    }
-
-    public void launchLibraryActivity(String joke) {
-        Intent myIntent = new Intent(this, JokeActivity.class);
-        myIntent.putExtra(JokeActivity.KEY_EXTRA_JOKE, joke);
-        startActivity(myIntent);
+        new EndPointAsyncTask().execute(this);
     }
 
 }
