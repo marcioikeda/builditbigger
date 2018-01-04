@@ -51,7 +51,14 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void tellJoke(View view) {
-        new EndPointAsyncTask().execute(this);
+        new EndPointAsyncTask(new EndPointListener() {
+            @Override
+            public void onAsyncTaskComplete(String result) {
+                Intent intent = new Intent(getBaseContext(), JokeActivity.class);
+                intent.putExtra(JokeActivity.KEY_EXTRA_JOKE, result);
+                startActivity(intent);
+            }
+        }).execute();
     }
 
 }

@@ -18,12 +18,16 @@ import br.com.marcioikeda.androidlib.JokeActivity;
  * Created by marcio.ikeda on 04/01/2018.
  */
 
-public class EndPointAsyncTask extends AsyncTask<Context, Void, String> {
+public class EndPointAsyncTask extends AsyncTask<Void, Void, String> {
     private static MyApi myApiService = null;
-    private Context context;
+    private EndPointListener mListener;
+
+    public EndPointAsyncTask(EndPointListener listener) {
+        mListener = listener;
+    }
 
     @Override
-    protected String doInBackground(Context... params) {
+    protected String doInBackground(Void... params) {
         if(myApiService == null) {  // Only do this once
             MyApi.Builder builder = new MyApi.Builder(AndroidHttp.newCompatibleTransport(),
                     new AndroidJsonFactory(), null)
@@ -42,8 +46,6 @@ public class EndPointAsyncTask extends AsyncTask<Context, Void, String> {
             myApiService = builder.build();
         }
 
-        context = params[0];
-
         try {
             return myApiService.tellJoke().execute().getData();
         } catch (IOException e) {
@@ -53,8 +55,6 @@ public class EndPointAsyncTask extends AsyncTask<Context, Void, String> {
 
     @Override
     protected void onPostExecute(String result) {
-        Intent intent = new Intent(context, JokeActivity.class);
-        intent.putExtra(JokeActivity.KEY_EXTRA_JOKE, result);
-        context.startActivity(intent);
+        mListener.onAsyncTaskComplete(result);
     }
 }
